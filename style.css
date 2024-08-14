@@ -28,4 +28,7 @@ margin-bottom: 20px;
 .pe{
     font-size: 20px;
     margin-top: 20px;
+    display: flex;
+    flex: 1;
+    gap: 20px;
 }
